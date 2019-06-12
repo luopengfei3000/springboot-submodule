@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://D:/workspaceV6R3/Java/jdk1.7.0_25" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mms-common" />
+        <module name="mms-mds-web" />
+        <module name="mms-pms-web" />
+        <module name="mms-service" />
+        <module name="mms-service-impl" />
+        <module name="springboot-angular" />
+        <module name="springboot-easyui" />
+        <module name="springboot-generator" />
+        <module name="springboot-jpa" />
+        <module name="springboot-jsp" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-start01" />
+        <module name="springboot-start02" />
+        <module name="springboot-start03" />
+        <module name="springboot-thymeleaf" />
+        <module name="springboot-timing" />
+        <module name="springboot-transactional" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="7" />
+  </component>
+</project>
